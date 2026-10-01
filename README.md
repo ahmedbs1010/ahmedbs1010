@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ra</h1>
+<h1 align="center">Hi 👋, I'm Rami</h1>
 <h3 align="center">Data Science & AI engineering student — computer vision, LLM agents, reinforcement learning</h3>
 
 - 🔭 I’m currently working on **CoTraffic — multi-agent RL for urban traffic signal control**
